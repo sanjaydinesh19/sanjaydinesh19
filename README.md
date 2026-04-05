@@ -1,10 +1,6 @@
-# Hi 👋, I'm Sanjay Dinesh
+# I'm Sanjay Dinesh
 
-## 📊 GitHub Stats
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaydinesh19&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaydinesh19&layout=compact&theme=radical)
-
-## 🛠️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
